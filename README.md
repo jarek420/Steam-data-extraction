@@ -5,7 +5,7 @@ It uses powershell script to download data from site and python code to export d
 
 1) Prepare 'item id' text file first
 -every new name must be written in separate line
--item id might find in the steam market url 'check png file'
+-item id might find in the steam market url 'check png file' (click the item adn you will find url there)
 
 2) Run powershell script
 
